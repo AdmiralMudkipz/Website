@@ -57,7 +57,7 @@ h1{
     top: 1;
     overflow-x: auto;
     
-    margin-left: 5%;
+    padding-left: 5%;
     
 }
 .left {
@@ -76,8 +76,8 @@ h1{
     text-align: center;
 }
 
-.centeredimg {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
+.placeImage {
+    top: 8%;
+    left: 1%;
+    position: absolute;
 }
