@@ -37,6 +37,7 @@ h1{
     float: left;
     font-weight: bold;
 }
+
 .page{
     display:none;
     background-color: #1e1e1e;
@@ -46,4 +47,37 @@ h1{
 }
 .page:target {
     display: block;
-  }
+}
+
+.split {
+    height: 100%;
+    width: 40%;
+    position: fixed;
+    z-index: 1;
+    top: 1;
+    overflow-x: auto;
+    
+    margin-left: 5%;
+    
+}
+.left {
+    left: 0;
+    
+}
+.right {
+    right: 0;
+    
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.centeredimg {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
