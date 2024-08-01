@@ -18,7 +18,7 @@ h2 {
     color: #4ec9b0
 }
 /*mobile version*/
-@media (hover: none), (pointer: coarse) {
+@media (aspect-ratio: 16/9) {
 main{
     margin-left: 10px;
     margin-right: 10px;
