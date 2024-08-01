@@ -31,8 +31,8 @@ h1{
     list-style-type:none;
     background-color: #400000;
     
-    padding: 20px;
-    margin: 20px;
+    padding: 10px;
+    margin: 10px;
     overflow: hidden;
 }
 .navbar a{
