@@ -58,7 +58,7 @@ h1{
     display:none;
     background-color: #1e1e1e;
     color: #549cd6;
-    margin:70px;
+    margin:20px;
     padding:20px;
 }
 .page:target {

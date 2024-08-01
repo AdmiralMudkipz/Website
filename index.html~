@@ -1,12 +1,10 @@
 <!DOCTYPE html> 
 <html lang = "en">
     <head>
-	<meta charset = "UTF-8">
-	<meta name = "viewport" content = "width = device-width, initial-scale = 1">
-	<title>Blake RichardsonI</title>
+        <meta charset = "UTF-8">
+        <title>Blake Richardson</title>
         <link rel = "stylesheet" href = "web.css">
         
-
         
     </head>
 
@@ -163,11 +161,11 @@
                     <h2>
                     Technology Student Worker at Clearview Regional High School (2019-2023)
                     </h2>
-                    i
                     <p>
                      
                 </p>
             
         </div>
     </body>
+    
 </html>
