@@ -18,10 +18,10 @@ h2 {
     color: #4ec9b0
 }
 /*mobile version*/
-@media (hover: none), (pointer: coarse) {
+@media (aspect-ratio: 16/9) {
 main{
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 h1{
     	
@@ -31,14 +31,14 @@ h1{
     list-style-type:none;
     background-color: #400000;
     
-    padding: 0px;
-    margin: 0px;
+    padding: 20px;
+    margin: 20px;
     overflow: hidden;
 }
 .navbar a{
     color: #549cd6;
     text-decoration: none;
-    padding: 10px;
+    padding: 40px;
     display: block;
     /*text-align: center;*/
 }
