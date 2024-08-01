@@ -17,20 +17,6 @@ p {
 h2 {
     color: #4ec9b0
 }
-/*mobile version*/
-@media (hover: none), (pointer: coarse) {
-
-
-
-
-
-
-
-
-
-}
-/*desktop version*/
-@media not all and (pointer: coarse){
 main{
     margin-left: 10px;
     margin-right: 10px;
@@ -114,7 +100,6 @@ h1{
 .Home { 
     text-align: center;
 }
-}/*end of desktop version*/
 /*
 .hide-scrollbar {
     -ms-overflow-style: none;
